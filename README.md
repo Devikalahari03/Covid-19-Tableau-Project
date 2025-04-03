@@ -1,7 +1,8 @@
 # Covid-19-Tableau-Project
 
 
-# https://www.mq.edu.au/__data/assets/image/0010/994924/COVID-19-updated.jpg
+
+
 
 
 
